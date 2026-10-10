@@ -2,7 +2,7 @@
 configuration:
   pageTitle: CSE 261D(68)
   pageTitleSuffix: ""
-  enableSPA: true
+  enableSPA: false
   enablePopovers: true
   analytics:
     provider: plausible
