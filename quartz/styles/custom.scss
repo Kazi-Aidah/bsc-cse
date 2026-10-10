@@ -33,4 +33,10 @@ a.internal {
   .page-title {
     font-size: 1.05rem;
   }
+
+  // stop the mobile explorer drawer from visibly sliding away on every page load
+  // (server renders it open; JS collapses it right after paint)
+  .explorer .explorer-content {
+    transition: none;
+  }
 }
