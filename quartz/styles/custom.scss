@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Minimal reader: airier long-form text
+article {
+  line-height: 1.75;
+
+  // tighter paragraph rhythm
+  & p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+// slim link chips
+a.internal {
+  padding: 1px 3px;
+}
+
+// force Montserrat on every element, including code
+* {
+  font-family: "Montserrat", system-ui, sans-serif !important;
+}
+
+// hide folder file-listings (notes double as their folder pages)
+.page-listing {
+  display: none;
+}
