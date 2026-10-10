@@ -35,8 +35,12 @@ a.internal {
   }
 
   // stop the mobile explorer drawer from visibly sliding away on every page load
-  // (server renders it open; JS collapses it right after paint)
-  .explorer .explorer-content {
-    transition: none;
+  // (server renders it open; JS collapses it right after paint).
+  // kill every transition inside the explorer so nothing in it can animate on mobile.
+  .explorer,
+  .explorer *,
+  .explorer *::before,
+  .explorer *::after {
+    transition: none !important;
   }
 }
