@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Kazi-Aidah.github.io/bsc-cse
+  baseUrl: kazi-aidah.github.io
   ignorePatterns:
     - private
     - templates
