@@ -1,0 +1,40 @@
+---
+permalink: eee-1209
+---
+
+**Course Title:** Circuit Analysis
+## Class Notes
+[[EEE 1209 ClassNotes MID]]
+## Midterm Suggestions
+1. Basic series-parallel equivalent resistance
+2. Nodal Analysis - do all math from teacher’s practice sheet.
+3. Nodal/Mesh Analysis Comparison *(THEORY)*
+4. Mesh Analysis - dependent source math and supermesh (very important!!)
+5. Linear property characteristics *(THEORY)*
+	↳ read from provided pdf
+6. KCL, KVL statement (important). *(THEORY)*
+7. superposition  
+	↳ do all math from practice sheet
+	
+## Syllabus
+- **Ch 1:** charge, current (i = dQ/dt, Q = ∫i dt), voltage, circuit elements (active/passive, dependent sources), resistivity.
+- **Ch 2:** Ohm’s law, KCL and KVL, and sections 2.4 to 2.6 (series/parallel resistors and dividers).
+- **Ch 3:** nodal analysis, mesh analysis, supermesh, and the current-source cases (Examples 3.6 and 3.7, PP 3.1).
+
+## Resources
+- BOOK: [[Fundamentals of Electric Circuits.pdf]]
+- [[1b. Alexander Fundamentals of Electric Circuits (7th edition)-320-339.pdf]]
+- [[1b. Alexander Fundamentals of Electric Circuits (7th edition)-295-320.pdf]]
+- [[Nodal Analysis Notes ZSS.pdf]]
+- [[Mesh Analysis Notes ZSS.pdf]]
+- [[Superposition Note ZSS.pdf]]
+
+## Class Test
+Class Test 1:![[EEE 1209 - Class Test 1Q.jpg]]
+## Assignments
+None
+# Course Teacher
+Zakia Sultana Simin
+Lecturer, Dept. of EEE
+WhatsApp: +8801759483124
+Phone: +8801615039127
