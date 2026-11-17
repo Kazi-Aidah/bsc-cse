@@ -22,3 +22,19 @@
 ![[EEE 10Nov26 ClassNotes_03.jpg]]
 ![[EEE 10Nov26 ClassNotes_04.jpg]]
 ![[EEE 10Nov26 ClassNotes_05.jpg]]
+
+# 11 November 2026
+
+![[EEE 11Nov26 ClassNotes_1.jpg]]
+![[EEE 11Nov26 ClassNotes_2.jpg]]
+![[EEE 11Nov26 ClassNotes_3.jpg]]
+![[EEE 11Nov26 ClassNotes_4.jpg]]
+
+# 17 November 2026
+![[EEE 17Nov26 ClassNotes_1.jpg]]
+![[EEE 17Nov26 ClassNotes_2.jpg]]
+![[EEE 17Nov26 ClassNotes_3.jpg]]
+![[EEE 17Nov26 ClassNotes_4.jpg]]
+![[EEE 17Nov26 ClassNotes_5.jpg]]
+![[EEE 17Nov26 ClassNotes_6.jpg]]
+![[EEE 17Nov26 ClassNotes_7.jpg]]
