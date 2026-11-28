@@ -38,3 +38,26 @@
 ![[EEE 17Nov26 ClassNotes_5.jpg]]
 ![[EEE 17Nov26 ClassNotes_6.jpg]]
 ![[EEE 17Nov26 ClassNotes_7.jpg]]
+
+# 18 November 2026
+![[EEE 18Nov26 ClassNotes_1.jpg]]
+![[EEE 18Nov26 ClassNotes_2.jpg]]
+![[EEE 18Nov26 ClassNotes_3.jpg]]
+![[EEE 18Nov26 ClassNotes_4.jpg]]
+![[EEE 18Nov26 ClassNotes_5.jpg]]
+![[EEE 18Nov26 ClassNotes_6.jpg]]
+![[EEE 18Nov26 ClassNotes_7.jpg]]
+
+# 24 November 2026
+![[EEE 24Nov26 ClassNotes_8.jpg]]
+![[EEE 24Nov26 ClassNotes_9.jpg]]
+![[EEE 24Nov26 ClassNotes_10.jpg]]
+![[EEE 24Nov26 ClassNotes_11.jpg]]
+![[EEE 24Nov26 ClassNotes_12.jpg]]
+![[EEE 24Nov26 ClassNotes_13.jpg]]
+![[EEE 24Nov26 ClassNotes_14.jpg]]
+![[EEE 24Nov26 ClassNotes_15.jpg]]
+![[EEE 24Nov26 ClassNotes_16.jpg]]
+![[EEE 24Nov26 ClassNotes_17.jpg]]
+![[EEE 24Nov26 ClassNotes_18.jpg]]
+![[EEE 24Nov26 ClassNotes_19.jpg]]
